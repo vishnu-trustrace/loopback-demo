@@ -1,4 +1,5 @@
-import {Entity, model, property} from '@loopback/repository';
+import {Entity, model, property, hasMany} from '@loopback/repository';
+import {State} from './state.model';
 
 @model()
 export class Country extends Entity {
@@ -69,6 +70,8 @@ export class Country extends Entity {
   })
   translation?: object;
 
+  @hasMany(() => State, {keyTo: 'country_id'})
+  states: State[];
 
   constructor(data?: Partial<Country>) {
     super(data);

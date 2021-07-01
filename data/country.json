@@ -25,7 +25,9 @@
             "ja":"アフガニスタン",
             "it":"Afghanistan"
          },
-         "native":"افغانستان"
+         "native":"افغانستان",
+         "latitude":"33.00000000",
+         "longitude":"65.00000000"
       },
       "1":{
          "id":2,
@@ -48,7 +50,9 @@
             "ja":"オーランド諸島",
             "it":"Isole Aland"
          },
-         "native":"Åland"
+         "native":"Åland",
+         "latitude":"60.11666700",
+         "longitude":"19.90000000"
       },
       "2":{
          "id":3,
@@ -71,7 +75,9 @@
             "ja":"アルバニア",
             "it":"Albania"
          },
-         "native":"Shqipëria"
+         "native":"Shqipëria",
+         "latitude":"41.00000000",
+         "longitude":"20.00000000"
       },
       "3":{
          "id":4,
@@ -94,7 +100,9 @@
             "ja":"アルジェリア",
             "it":"Algeria"
          },
-         "native":"الجزائر"
+         "native":"الجزائر",
+         "latitude":"28.00000000",
+         "longitude":"3.00000000"
       },
       "4":{
          "id":5,
@@ -117,7 +125,9 @@
             "ja":"アメリカ領サモア",
             "it":"Samoa Americane"
          },
-         "native":"American Samoa"
+         "native":"American Samoa",
+         "latitude":"-14.33333333",
+         "longitude":"-170.00000000"
       },
       "5":{
          "id":6,
@@ -140,7 +150,9 @@
             "ja":"アンドラ",
             "it":"Andorra"
          },
-         "native":"Andorra"
+         "native":"Andorra",
+         "latitude":"42.50000000",
+         "longitude":"1.50000000"
       },
       "6":{
          "id":7,
@@ -163,7 +175,9 @@
             "ja":"アンゴラ",
             "it":"Angola"
          },
-         "native":"Angola"
+         "native":"Angola",
+         "latitude":"-12.50000000",
+         "longitude":"18.50000000"
       },
       "7":{
          "id":8,
@@ -186,7 +200,9 @@
             "ja":"アンギラ",
             "it":"Anguilla"
          },
-         "native":"Anguilla"
+         "native":"Anguilla",
+         "latitude":"18.25000000",
+         "longitude":"-63.16666666"
       },
       "8":{
          "id":9,
@@ -209,7 +225,9 @@
             "ja":"南極大陸",
             "it":"Antartide"
          },
-         "native":"Antarctica"
+         "native":"Antarctica",
+         "latitude":"-74.65000000",
+         "longitude":"4.48000000"
       },
       "9":{
          "id":10,
@@ -232,7 +250,9 @@
             "ja":"アンティグア・バーブーダ",
             "it":"Antigua e Barbuda"
          },
-         "native":"Antigua and Barbuda"
+         "native":"Antigua and Barbuda",
+         "latitude":"17.05000000",
+         "longitude":"-61.80000000"
       },
       "10":{
          "id":11,
@@ -255,7 +275,9 @@
             "ja":"アルゼンチン",
             "it":"Argentina"
          },
-         "native":"Argentina"
+         "native":"Argentina",
+         "latitude":"-34.00000000",
+         "longitude":"-64.00000000"
       },
       "11":{
          "id":12,
@@ -278,7 +300,9 @@
             "ja":"アルメニア",
             "it":"Armenia"
          },
-         "native":"Հայաստան"
+         "native":"Հայաստան",
+         "latitude":"40.00000000",
+         "longitude":"45.00000000"
       },
       "12":{
          "id":13,
@@ -301,7 +325,9 @@
             "ja":"アルバ",
             "it":"Aruba"
          },
-         "native":"Aruba"
+         "native":"Aruba",
+         "latitude":"12.50000000",
+         "longitude":"-69.96666666"
       },
       "13":{
          "id":14,
@@ -324,7 +350,9 @@
             "ja":"オーストラリア",
             "it":"Australia"
          },
-         "native":"Australia"
+         "native":"Australia",
+         "latitude":"-27.00000000",
+         "longitude":"133.00000000"
       },
       "14":{
          "id":15,
@@ -347,7 +375,9 @@
             "ja":"オーストリア",
             "it":"Austria"
          },
-         "native":"Österreich"
+         "native":"Österreich",
+         "latitude":"47.33333333",
+         "longitude":"13.33333333"
       },
       "15":{
          "id":16,
@@ -370,7 +400,9 @@
             "ja":"アゼルバイジャン",
             "it":"Azerbaijan"
          },
-         "native":"Azərbaycan"
+         "native":"Azərbaycan",
+         "latitude":"40.50000000",
+         "longitude":"47.50000000"
       },
       "16":{
          "id":17,
@@ -393,7 +425,9 @@
             "ja":"バハマ",
             "it":"Bahamas"
          },
-         "native":"Bahamas"
+         "native":"Bahamas",
+         "latitude":"24.25000000",
+         "longitude":"-76.00000000"
       },
       "17":{
          "id":18,
@@ -416,7 +450,9 @@
             "ja":"バーレーン",
             "it":"Bahrein"
          },
-         "native":"‏البحرين"
+         "native":"‏البحرين",
+         "latitude":"26.00000000",
+         "longitude":"50.55000000"
       },
       "18":{
          "id":19,
@@ -439,7 +475,9 @@
             "ja":"バングラデシュ",
             "it":"Bangladesh"
          },
-         "native":"Bangladesh"
+         "native":"Bangladesh",
+         "latitude":"24.00000000",
+         "longitude":"90.00000000"
       },
       "19":{
          "id":20,
@@ -462,7 +500,9 @@
             "ja":"バルバドス",
             "it":"Barbados"
          },
-         "native":"Barbados"
+         "native":"Barbados",
+         "latitude":"13.16666666",
+         "longitude":"-59.53333333"
       },
       "20":{
          "id":21,
@@ -485,7 +525,9 @@
             "ja":"ベラルーシ",
             "it":"Bielorussia"
          },
-         "native":"Белару́сь"
+         "native":"Белару́сь",
+         "latitude":"53.00000000",
+         "longitude":"28.00000000"
       },
       "21":{
          "id":22,
@@ -508,7 +550,9 @@
             "ja":"ベルギー",
             "it":"Belgio"
          },
-         "native":"België"
+         "native":"België",
+         "latitude":"50.83333333",
+         "longitude":"4.00000000"
       },
       "22":{
          "id":23,
@@ -531,7 +575,9 @@
             "ja":"ベリーズ",
             "it":"Belize"
          },
-         "native":"Belize"
+         "native":"Belize",
+         "latitude":"17.25000000",
+         "longitude":"-88.75000000"
       },
       "23":{
          "id":24,
@@ -554,7 +600,9 @@
             "ja":"ベナン",
             "it":"Benin"
          },
-         "native":"Bénin"
+         "native":"Bénin",
+         "latitude":"9.50000000",
+         "longitude":"2.25000000"
       },
       "24":{
          "id":25,
@@ -577,7 +625,9 @@
             "ja":"バミューダ",
             "it":"Bermuda"
          },
-         "native":"Bermuda"
+         "native":"Bermuda",
+         "latitude":"32.33333333",
+         "longitude":"-64.75000000"
       },
       "25":{
          "id":26,
@@ -600,7 +650,9 @@
             "ja":"ブータン",
             "it":"Bhutan"
          },
-         "native":"ʼbrug-yul"
+         "native":"ʼbrug-yul",
+         "latitude":"27.50000000",
+         "longitude":"90.50000000"
       },
       "26":{
          "id":27,
@@ -623,7 +675,9 @@
             "ja":"ボリビア多民族国",
             "it":"Bolivia"
          },
-         "native":"Bolivia"
+         "native":"Bolivia",
+         "latitude":"-17.00000000",
+         "longitude":"-65.00000000"
       },
       "27":{
          "id":155,
@@ -642,7 +696,9 @@
             "fr":"Bonaire, Saint-Eustache et Saba",
             "it":"Bonaire, Saint-Eustache e Saba"
          },
-         "native":"Caribisch Nederland"
+         "native":"Caribisch Nederland",
+         "latitude":"12.15000000",
+         "longitude":"-68.26666700"
       },
       "28":{
          "id":28,
@@ -665,7 +721,9 @@
             "ja":"ボスニア・ヘルツェゴビナ",
             "it":"Bosnia ed Erzegovina"
          },
-         "native":"Bosna i Hercegovina"
+         "native":"Bosna i Hercegovina",
+         "latitude":"44.00000000",
+         "longitude":"18.00000000"
       },
       "29":{
          "id":29,
@@ -688,7 +746,9 @@
             "ja":"ボツワナ",
             "it":"Botswana"
          },
-         "native":"Botswana"
+         "native":"Botswana",
+         "latitude":"-22.00000000",
+         "longitude":"24.00000000"
       },
       "30":{
          "id":30,
@@ -711,7 +771,9 @@
             "ja":"ブーベ島",
             "it":"Isola Bouvet"
          },
-         "native":"Bouvetøya"
+         "native":"Bouvetøya",
+         "latitude":"-54.43333333",
+         "longitude":"3.40000000"
       },
       "31":{
          "id":31,
@@ -734,7 +796,9 @@
             "ja":"ブラジル",
             "it":"Brasile"
          },
-         "native":"Brasil"
+         "native":"Brasil",
+         "latitude":"-10.00000000",
+         "longitude":"-55.00000000"
       },
       "32":{
          "id":32,
@@ -757,7 +821,9 @@
             "ja":"イギリス領インド洋地域",
             "it":"Territorio britannico dell'oceano indiano"
          },
-         "native":"British Indian Ocean Territory"
+         "native":"British Indian Ocean Territory",
+         "latitude":"-6.00000000",
+         "longitude":"71.50000000"
       },
       "33":{
          "id":33,
@@ -780,7 +846,9 @@
             "ja":"ブルネイ・ダルサラーム",
             "it":"Brunei"
          },
-         "native":"Negara Brunei Darussalam"
+         "native":"Negara Brunei Darussalam",
+         "latitude":"4.50000000",
+         "longitude":"114.66666666"
       },
       "34":{
          "id":34,
@@ -803,7 +871,9 @@
             "ja":"ブルガリア",
             "it":"Bulgaria"
          },
-         "native":"България"
+         "native":"България",
+         "latitude":"43.00000000",
+         "longitude":"25.00000000"
       },
       "35":{
          "id":35,
@@ -826,7 +896,9 @@
             "ja":"ブルキナファソ",
             "it":"Burkina Faso"
          },
-         "native":"Burkina Faso"
+         "native":"Burkina Faso",
+         "latitude":"13.00000000",
+         "longitude":"-2.00000000"
       },
       "36":{
          "id":36,
@@ -849,7 +921,9 @@
             "ja":"ブルンジ",
             "it":"Burundi"
          },
-         "native":"Burundi"
+         "native":"Burundi",
+         "latitude":"-3.50000000",
+         "longitude":"30.00000000"
       },
       "37":{
          "id":37,
@@ -872,7 +946,9 @@
             "ja":"カンボジア",
             "it":"Cambogia"
          },
-         "native":"Kâmpŭchéa"
+         "native":"Kâmpŭchéa",
+         "latitude":"13.00000000",
+         "longitude":"105.00000000"
       },
       "38":{
          "id":38,
@@ -895,7 +971,9 @@
             "ja":"カメルーン",
             "it":"Camerun"
          },
-         "native":"Cameroon"
+         "native":"Cameroon",
+         "latitude":"6.00000000",
+         "longitude":"12.00000000"
       },
       "39":{
          "id":39,
@@ -918,7 +996,9 @@
             "ja":"カナダ",
             "it":"Canada"
          },
-         "native":"Canada"
+         "native":"Canada",
+         "latitude":"60.00000000",
+         "longitude":"-95.00000000"
       },
       "40":{
          "id":40,
@@ -941,7 +1021,9 @@
             "ja":"カーボベルデ",
             "it":"Capo Verde"
          },
-         "native":"Cabo Verde"
+         "native":"Cabo Verde",
+         "latitude":"16.00000000",
+         "longitude":"-24.00000000"
       },
       "41":{
          "id":41,
@@ -964,7 +1046,9 @@
             "ja":"ケイマン諸島",
             "it":"Isole Cayman"
          },
-         "native":"Cayman Islands"
+         "native":"Cayman Islands",
+         "latitude":"19.50000000",
+         "longitude":"-80.50000000"
       },
       "42":{
          "id":42,
@@ -987,7 +1071,9 @@
             "ja":"中央アフリカ共和国",
             "it":"Repubblica Centrafricana"
          },
-         "native":"Ködörösêse tî Bêafrîka"
+         "native":"Ködörösêse tî Bêafrîka",
+         "latitude":"7.00000000",
+         "longitude":"21.00000000"
       },
       "43":{
          "id":43,
@@ -1010,7 +1096,9 @@
             "ja":"チャド",
             "it":"Ciad"
          },
-         "native":"Tchad"
+         "native":"Tchad",
+         "latitude":"15.00000000",
+         "longitude":"19.00000000"
       },
       "44":{
          "id":44,
@@ -1033,7 +1121,9 @@
             "ja":"チリ",
             "it":"Cile"
          },
-         "native":"Chile"
+         "native":"Chile",
+         "latitude":"-30.00000000",
+         "longitude":"-71.00000000"
       },
       "45":{
          "id":45,
@@ -1056,7 +1146,9 @@
             "ja":"中国",
             "it":"Cina"
          },
-         "native":"中国"
+         "native":"中国",
+         "latitude":"35.00000000",
+         "longitude":"105.00000000"
       },
       "46":{
          "id":46,
@@ -1079,7 +1171,9 @@
             "ja":"クリスマス島",
             "it":"Isola di Natale"
          },
-         "native":"Christmas Island"
+         "native":"Christmas Island",
+         "latitude":"-10.50000000",
+         "longitude":"105.66666666"
       },
       "47":{
          "id":47,
@@ -1102,7 +1196,9 @@
             "ja":"ココス（キーリング）諸島",
             "it":"Isole Cocos e Keeling"
          },
-         "native":"Cocos (Keeling) Islands"
+         "native":"Cocos (Keeling) Islands",
+         "latitude":"-12.50000000",
+         "longitude":"96.83333333"
       },
       "48":{
          "id":48,
@@ -1125,7 +1221,9 @@
             "ja":"コロンビア",
             "it":"Colombia"
          },
-         "native":"Colombia"
+         "native":"Colombia",
+         "latitude":"4.00000000",
+         "longitude":"-72.00000000"
       },
       "49":{
          "id":49,
@@ -1148,7 +1246,9 @@
             "ja":"コモロ",
             "it":"Comore"
          },
-         "native":"Komori"
+         "native":"Komori",
+         "latitude":"-12.16666666",
+         "longitude":"44.25000000"
       },
       "50":{
          "id":50,
@@ -1171,7 +1271,9 @@
             "ja":"コンゴ共和国",
             "it":"Congo"
          },
-         "native":"République du Congo"
+         "native":"République du Congo",
+         "latitude":"-1.00000000",
+         "longitude":"15.00000000"
       },
       "51":{
          "id":51,
@@ -1194,7 +1296,9 @@
             "ja":"コンゴ民主共和国",
             "it":"Congo (Rep. Dem.)"
          },
-         "native":"République démocratique du Congo"
+         "native":"République démocratique du Congo",
+         "latitude":"0.00000000",
+         "longitude":"25.00000000"
       },
       "52":{
          "id":52,
@@ -1217,7 +1321,9 @@
             "ja":"クック諸島",
             "it":"Isole Cook"
          },
-         "native":"Cook Islands"
+         "native":"Cook Islands",
+         "latitude":"-21.23333333",
+         "longitude":"-159.76666666"
       },
       "53":{
          "id":53,
@@ -1240,7 +1346,9 @@
             "ja":"コスタリカ",
             "it":"Costa Rica"
          },
-         "native":"Costa Rica"
+         "native":"Costa Rica",
+         "latitude":"10.00000000",
+         "longitude":"-84.00000000"
       },
       "54":{
          "id":54,
@@ -1263,7 +1371,9 @@
             "ja":"コートジボワール",
             "it":"Costa D'Avorio"
          },
-         "native":null
+         "native":null,
+         "latitude":"8.00000000",
+         "longitude":"-5.00000000"
       },
       "55":{
          "id":55,
@@ -1286,7 +1396,9 @@
             "ja":"クロアチア",
             "it":"Croazia"
          },
-         "native":"Hrvatska"
+         "native":"Hrvatska",
+         "latitude":"45.16666666",
+         "longitude":"15.50000000"
       },
       "56":{
          "id":56,
@@ -1309,7 +1421,9 @@
             "ja":"キューバ",
             "it":"Cuba"
          },
-         "native":"Cuba"
+         "native":"Cuba",
+         "latitude":"21.50000000",
+         "longitude":"-80.00000000"
       },
       "57":{
          "id":249,
@@ -1329,7 +1443,9 @@
             "fr":"Curaçao",
             "it":"Curaçao"
          },
-         "native":"Curaçao"
+         "native":"Curaçao",
+         "latitude":"12.11666700",
+         "longitude":"-68.93333300"
       },
       "58":{
          "id":57,
@@ -1352,7 +1468,9 @@
             "ja":"キプロス",
             "it":"Cipro"
          },
-         "native":"Κύπρος"
+         "native":"Κύπρος",
+         "latitude":"35.00000000",
+         "longitude":"33.00000000"
       },
       "59":{
          "id":58,
@@ -1375,7 +1493,9 @@
             "ja":"チェコ",
             "it":"Repubblica Ceca"
          },
-         "native":"Česká republika"
+         "native":"Česká republika",
+         "latitude":"49.75000000",
+         "longitude":"15.50000000"
       },
       "60":{
          "id":59,
@@ -1398,7 +1518,9 @@
             "ja":"デンマーク",
             "it":"Danimarca"
          },
-         "native":"Danmark"
+         "native":"Danmark",
+         "latitude":"56.00000000",
+         "longitude":"10.00000000"
       },
       "61":{
          "id":60,
@@ -1421,7 +1543,9 @@
             "ja":"ジブチ",
             "it":"Gibuti"
          },
-         "native":"Djibouti"
+         "native":"Djibouti",
+         "latitude":"11.50000000",
+         "longitude":"43.00000000"
       },
       "62":{
          "id":61,
@@ -1444,7 +1568,9 @@
             "ja":"ドミニカ国",
             "it":"Dominica"
          },
-         "native":"Dominica"
+         "native":"Dominica",
+         "latitude":"15.41666666",
+         "longitude":"-61.33333333"
       },
       "63":{
          "id":62,
@@ -1467,7 +1593,9 @@
             "ja":"ドミニカ共和国",
             "it":"Repubblica Dominicana"
          },
-         "native":"República Dominicana"
+         "native":"República Dominicana",
+         "latitude":"19.00000000",
+         "longitude":"-70.66666666"
       },
       "64":{
          "id":63,
@@ -1490,7 +1618,9 @@
             "ja":"東ティモール",
             "it":"Timor Est"
          },
-         "native":"Timor-Leste"
+         "native":"Timor-Leste",
+         "latitude":"-8.83333333",
+         "longitude":"125.91666666"
       },
       "65":{
          "id":64,
@@ -1513,7 +1643,9 @@
             "ja":"エクアドル",
             "it":"Ecuador"
          },
-         "native":"Ecuador"
+         "native":"Ecuador",
+         "latitude":"-2.00000000",
+         "longitude":"-77.50000000"
       },
       "66":{
          "id":65,
@@ -1536,7 +1668,9 @@
             "ja":"エジプト",
             "it":"Egitto"
          },
-         "native":"مصر‎"
+         "native":"مصر‎",
+         "latitude":"27.00000000",
+         "longitude":"30.00000000"
       },
       "67":{
          "id":66,
@@ -1559,7 +1693,9 @@
             "ja":"エルサルバドル",
             "it":"El Salvador"
          },
-         "native":"El Salvador"
+         "native":"El Salvador",
+         "latitude":"13.83333333",
+         "longitude":"-88.91666666"
       },
       "68":{
          "id":67,
@@ -1582,7 +1718,9 @@
             "ja":"赤道ギニア",
             "it":"Guinea Equatoriale"
          },
-         "native":"Guinea Ecuatorial"
+         "native":"Guinea Ecuatorial",
+         "latitude":"2.00000000",
+         "longitude":"10.00000000"
       },
       "69":{
          "id":68,
@@ -1605,7 +1743,9 @@
             "ja":"エリトリア",
             "it":"Eritrea"
          },
-         "native":"ኤርትራ"
+         "native":"ኤርትራ",
+         "latitude":"15.00000000",
+         "longitude":"39.00000000"
       },
       "70":{
          "id":69,
@@ -1628,7 +1768,9 @@
             "ja":"エストニア",
             "it":"Estonia"
          },
-         "native":"Eesti"
+         "native":"Eesti",
+         "latitude":"59.00000000",
+         "longitude":"26.00000000"
       },
       "71":{
          "id":70,
@@ -1651,7 +1793,9 @@
             "ja":"エチオピア",
             "it":"Etiopia"
          },
-         "native":"ኢትዮጵያ"
+         "native":"ኢትዮጵያ",
+         "latitude":"8.00000000",
+         "longitude":"38.00000000"
       },
       "72":{
          "id":71,
@@ -1674,7 +1818,9 @@
             "ja":"フォークランド（マルビナス）諸島",
             "it":"Isole Falkland o Isole Malvine"
          },
-         "native":"Falkland Islands"
+         "native":"Falkland Islands",
+         "latitude":"-51.75000000",
+         "longitude":"-59.00000000"
       },
       "73":{
          "id":72,
@@ -1697,7 +1843,9 @@
             "ja":"フェロー諸島",
             "it":"Isole Far Oer"
          },
-         "native":"Føroyar"
+         "native":"Føroyar",
+         "latitude":"62.00000000",
+         "longitude":"-7.00000000"
       },
       "74":{
          "id":73,
@@ -1720,7 +1868,9 @@
             "ja":"フィジー",
             "it":"Figi"
          },
-         "native":"Fiji"
+         "native":"Fiji",
+         "latitude":"-18.00000000",
+         "longitude":"175.00000000"
       },
       "75":{
          "id":74,
@@ -1743,7 +1893,9 @@
             "ja":"フィンランド",
             "it":"Finlandia"
          },
-         "native":"Suomi"
+         "native":"Suomi",
+         "latitude":"64.00000000",
+         "longitude":"26.00000000"
       },
       "76":{
          "id":75,
@@ -1766,7 +1918,9 @@
             "ja":"フランス",
             "it":"Francia"
          },
-         "native":"France"
+         "native":"France",
+         "latitude":"46.00000000",
+         "longitude":"2.00000000"
       },
       "77":{
          "id":76,
@@ -1789,7 +1943,9 @@
             "ja":"フランス領ギアナ",
             "it":"Guyana francese"
          },
-         "native":"Guyane française"
+         "native":"Guyane française",
+         "latitude":"4.00000000",
+         "longitude":"-53.00000000"
       },
       "78":{
          "id":77,
@@ -1812,7 +1968,9 @@
             "ja":"フランス領ポリネシア",
             "it":"Polinesia Francese"
          },
-         "native":"Polynésie française"
+         "native":"Polynésie française",
+         "latitude":"-15.00000000",
+         "longitude":"-140.00000000"
       },
       "79":{
          "id":78,
@@ -1835,7 +1993,9 @@
             "ja":"フランス領南方・南極地域",
             "it":"Territori Francesi del Sud"
          },
-         "native":"Territoire des Terres australes et antarctiques fr"
+         "native":"Territoire des Terres australes et antarctiques fr",
+         "latitude":"-49.25000000",
+         "longitude":"69.16700000"
       },
       "80":{
          "id":79,
@@ -1858,7 +2018,9 @@
             "ja":"ガボン",
             "it":"Gabon"
          },
-         "native":"Gabon"
+         "native":"Gabon",
+         "latitude":"-1.00000000",
+         "longitude":"11.75000000"
       },
       "81":{
          "id":80,
@@ -1881,7 +2043,9 @@
             "ja":"ガンビア",
             "it":"Gambia"
          },
-         "native":"Gambia"
+         "native":"Gambia",
+         "latitude":"13.46666666",
+         "longitude":"-16.56666666"
       },
       "82":{
          "id":81,
@@ -1904,7 +2068,9 @@
             "ja":"グルジア",
             "it":"Georgia"
          },
-         "native":"საქართველო"
+         "native":"საქართველო",
+         "latitude":"42.00000000",
+         "longitude":"43.50000000"
       },
       "83":{
          "id":82,
@@ -1927,7 +2093,9 @@
             "ja":"ドイツ",
             "it":"Germania"
          },
-         "native":"Deutschland"
+         "native":"Deutschland",
+         "latitude":"51.00000000",
+         "longitude":"9.00000000"
       },
       "84":{
          "id":83,
@@ -1950,7 +2118,9 @@
             "ja":"ガーナ",
             "it":"Ghana"
          },
-         "native":"Ghana"
+         "native":"Ghana",
+         "latitude":"8.00000000",
+         "longitude":"-2.00000000"
       },
       "85":{
          "id":84,
@@ -1973,7 +2143,9 @@
             "ja":"ジブラルタル",
             "it":"Gibilterra"
          },
-         "native":"Gibraltar"
+         "native":"Gibraltar",
+         "latitude":"36.13333333",
+         "longitude":"-5.35000000"
       },
       "86":{
          "id":85,
@@ -1996,7 +2168,9 @@
             "ja":"ギリシャ",
             "it":"Grecia"
          },
-         "native":"Ελλάδα"
+         "native":"Ελλάδα",
+         "latitude":"39.00000000",
+         "longitude":"22.00000000"
       },
       "87":{
          "id":86,
@@ -2019,7 +2193,9 @@
             "ja":"グリーンランド",
             "it":"Groenlandia"
          },
-         "native":"Kalaallit Nunaat"
+         "native":"Kalaallit Nunaat",
+         "latitude":"72.00000000",
+         "longitude":"-40.00000000"
       },
       "88":{
          "id":87,
@@ -2042,7 +2218,9 @@
             "ja":"グレナダ",
             "it":"Grenada"
          },
-         "native":"Grenada"
+         "native":"Grenada",
+         "latitude":"12.11666666",
+         "longitude":"-61.66666666"
       },
       "89":{
          "id":88,
@@ -2065,7 +2243,9 @@
             "ja":"グアドループ",
             "it":"Guadeloupa"
          },
-         "native":"Guadeloupe"
+         "native":"Guadeloupe",
+         "latitude":"16.25000000",
+         "longitude":"-61.58333300"
       },
       "90":{
          "id":89,
@@ -2088,7 +2268,9 @@
             "ja":"グアム",
             "it":"Guam"
          },
-         "native":"Guam"
+         "native":"Guam",
+         "latitude":"13.46666666",
+         "longitude":"144.78333333"
       },
       "91":{
          "id":90,
@@ -2111,7 +2293,9 @@
             "ja":"グアテマラ",
             "it":"Guatemala"
          },
-         "native":"Guatemala"
+         "native":"Guatemala",
+         "latitude":"15.50000000",
+         "longitude":"-90.25000000"
       },
       "92":{
          "id":91,
@@ -2134,7 +2318,9 @@
             "ja":"ガーンジー",
             "it":"Guernsey"
          },
-         "native":"Guernsey"
+         "native":"Guernsey",
+         "latitude":"49.46666666",
+         "longitude":"-2.58333333"
       },
       "93":{
          "id":92,
@@ -2157,7 +2343,9 @@
             "ja":"ギニア",
             "it":"Guinea"
          },
-         "native":"Guinée"
+         "native":"Guinée",
+         "latitude":"11.00000000",
+         "longitude":"-10.00000000"
       },
       "94":{
          "id":93,
@@ -2180,7 +2368,9 @@
             "ja":"ギニアビサウ",
             "it":"Guinea-Bissau"
          },
-         "native":"Guiné-Bissau"
+         "native":"Guiné-Bissau",
+         "latitude":"12.00000000",
+         "longitude":"-15.00000000"
       },
       "95":{
          "id":94,
@@ -2203,7 +2393,9 @@
             "ja":"ガイアナ",
             "it":"Guyana"
          },
-         "native":"Guyana"
+         "native":"Guyana",
+         "latitude":"5.00000000",
+         "longitude":"-59.00000000"
       },
       "96":{
          "id":95,
@@ -2226,7 +2418,9 @@
             "ja":"ハイチ",
             "it":"Haiti"
          },
-         "native":"Haïti"
+         "native":"Haïti",
+         "latitude":"19.00000000",
+         "longitude":"-72.41666666"
       },
       "97":{
          "id":96,
@@ -2249,7 +2443,9 @@
             "ja":"ハード島とマクドナルド諸島",
             "it":"Isole Heard e McDonald"
          },
-         "native":"Heard Island and McDonald Islands"
+         "native":"Heard Island and McDonald Islands",
+         "latitude":"-53.10000000",
+         "longitude":"72.51666666"
       },
       "98":{
          "id":97,
@@ -2272,7 +2468,9 @@
             "ja":"ホンジュラス",
             "it":"Honduras"
          },
-         "native":"Honduras"
+         "native":"Honduras",
+         "latitude":"15.00000000",
+         "longitude":"-86.50000000"
       },
       "99":{
          "id":98,
@@ -2295,7 +2493,9 @@
             "ja":"香港",
             "it":"Hong Kong"
          },
-         "native":"香港"
+         "native":"香港",
+         "latitude":"22.25000000",
+         "longitude":"114.16666666"
       },
       "100":{
          "id":99,
@@ -2318,7 +2518,9 @@
             "ja":"ハンガリー",
             "it":"Ungheria"
          },
-         "native":"Magyarország"
+         "native":"Magyarország",
+         "latitude":"47.00000000",
+         "longitude":"20.00000000"
       },
       "101":{
          "id":100,
@@ -2341,7 +2543,9 @@
             "ja":"アイスランド",
             "it":"Islanda"
          },
-         "native":"Ísland"
+         "native":"Ísland",
+         "latitude":"65.00000000",
+         "longitude":"-18.00000000"
       },
       "102":{
          "id":101,
@@ -2364,7 +2568,9 @@
             "ja":"インド",
             "it":"India"
          },
-         "native":"भारत"
+         "native":"भारत",
+         "latitude":"20.00000000",
+         "longitude":"77.00000000"
       },
       "103":{
          "id":102,
@@ -2387,7 +2593,9 @@
             "ja":"インドネシア",
             "it":"Indonesia"
          },
-         "native":"Indonesia"
+         "native":"Indonesia",
+         "latitude":"-5.00000000",
+         "longitude":"120.00000000"
       },
       "104":{
          "id":103,
@@ -2409,7 +2617,9 @@
             "fr":"Iran",
             "ja":"イラン・イスラム共和国"
          },
-         "native":"ایران"
+         "native":"ایران",
+         "latitude":"32.00000000",
+         "longitude":"53.00000000"
       },
       "105":{
          "id":104,
@@ -2432,7 +2642,9 @@
             "ja":"イラク",
             "it":"Iraq"
          },
-         "native":"العراق"
+         "native":"العراق",
+         "latitude":"33.00000000",
+         "longitude":"44.00000000"
       },
       "106":{
          "id":105,
@@ -2455,7 +2667,9 @@
             "ja":"アイルランド",
             "it":"Irlanda"
          },
-         "native":"Éire"
+         "native":"Éire",
+         "latitude":"53.00000000",
+         "longitude":"-8.00000000"
       },
       "107":{
          "id":106,
@@ -2478,7 +2692,9 @@
             "ja":"イスラエル",
             "it":"Israele"
          },
-         "native":"יִשְׂרָאֵל"
+         "native":"יִשְׂרָאֵל",
+         "latitude":"31.50000000",
+         "longitude":"34.75000000"
       },
       "108":{
          "id":107,
@@ -2501,7 +2717,9 @@
             "ja":"イタリア",
             "it":"Italia"
          },
-         "native":"Italia"
+         "native":"Italia",
+         "latitude":"42.83333333",
+         "longitude":"12.83333333"
       },
       "109":{
          "id":108,
@@ -2524,7 +2742,9 @@
             "ja":"ジャマイカ",
             "it":"Giamaica"
          },
-         "native":"Jamaica"
+         "native":"Jamaica",
+         "latitude":"18.25000000",
+         "longitude":"-77.50000000"
       },
       "110":{
          "id":109,
@@ -2547,7 +2767,9 @@
             "ja":"日本",
             "it":"Giappone"
          },
-         "native":"日本"
+         "native":"日本",
+         "latitude":"36.00000000",
+         "longitude":"138.00000000"
       },
       "111":{
          "id":110,
@@ -2570,7 +2792,9 @@
             "ja":"ジャージー",
             "it":"Isola di Jersey"
          },
-         "native":"Jersey"
+         "native":"Jersey",
+         "latitude":"49.25000000",
+         "longitude":"-2.16666666"
       },
       "112":{
          "id":111,
@@ -2593,7 +2817,9 @@
             "ja":"ヨルダン",
             "it":"Giordania"
          },
-         "native":"الأردن"
+         "native":"الأردن",
+         "latitude":"31.00000000",
+         "longitude":"36.00000000"
       },
       "113":{
          "id":112,
@@ -2616,7 +2842,9 @@
             "ja":"カザフスタン",
             "it":"Kazakistan"
          },
-         "native":"Қазақстан"
+         "native":"Қазақстан",
+         "latitude":"48.00000000",
+         "longitude":"68.00000000"
       },
       "114":{
          "id":113,
@@ -2639,7 +2867,9 @@
             "ja":"ケニア",
             "it":"Kenya"
          },
-         "native":"Kenya"
+         "native":"Kenya",
+         "latitude":"1.00000000",
+         "longitude":"38.00000000"
       },
       "115":{
          "id":114,
@@ -2662,7 +2892,9 @@
             "ja":"キリバス",
             "it":"Kiribati"
          },
-         "native":"Kiribati"
+         "native":"Kiribati",
+         "latitude":"1.41666666",
+         "longitude":"173.00000000"
       },
       "116":{
          "id":115,
@@ -2685,7 +2917,9 @@
             "ja":"朝鮮民主主義人民共和国",
             "it":"Corea del Nord"
          },
-         "native":"북한"
+         "native":"북한",
+         "latitude":"40.00000000",
+         "longitude":"127.00000000"
       },
       "117":{
          "id":116,
@@ -2708,7 +2942,9 @@
             "ja":"大韓民国",
             "it":"Corea del Sud"
          },
-         "native":"대한민국"
+         "native":"대한민국",
+         "latitude":"37.00000000",
+         "longitude":"127.50000000"
       },
       "118":{
          "id":248,
@@ -2720,7 +2956,9 @@
          "currency":"EUR",
          "region":"Europe",
          "translations":null,
-         "native":"Republika e Kosovës"
+         "native":"Republika e Kosovës",
+         "latitude":"42.56129090",
+         "longitude":"20.34030350"
       },
       "119":{
          "id":117,
@@ -2743,7 +2981,9 @@
             "ja":"クウェート",
             "it":"Kuwait"
          },
-         "native":"الكويت"
+         "native":"الكويت",
+         "latitude":"29.50000000",
+         "longitude":"45.75000000"
       },
       "120":{
          "id":118,
@@ -2766,7 +3006,9 @@
             "ja":"キルギス",
             "it":"Kirghizistan"
          },
-         "native":"Кыргызстан"
+         "native":"Кыргызстан",
+         "latitude":"41.00000000",
+         "longitude":"75.00000000"
       },
       "121":{
          "id":119,
@@ -2789,7 +3031,9 @@
             "ja":"ラオス人民民主共和国",
             "it":"Laos"
          },
-         "native":"ສປປລາວ"
+         "native":"ສປປລາວ",
+         "latitude":"18.00000000",
+         "longitude":"105.00000000"
       },
       "122":{
          "id":120,
@@ -2812,7 +3056,9 @@
             "ja":"ラトビア",
             "it":"Lettonia"
          },
-         "native":"Latvija"
+         "native":"Latvija",
+         "latitude":"57.00000000",
+         "longitude":"25.00000000"
       },
       "123":{
          "id":121,
@@ -2835,7 +3081,9 @@
             "ja":"レバノン",
             "it":"Libano"
          },
-         "native":"لبنان"
+         "native":"لبنان",
+         "latitude":"33.83333333",
+         "longitude":"35.83333333"
       },
       "124":{
          "id":122,
@@ -2858,7 +3106,9 @@
             "ja":"レソト",
             "it":"Lesotho"
          },
-         "native":"Lesotho"
+         "native":"Lesotho",
+         "latitude":"-29.50000000",
+         "longitude":"28.50000000"
       },
       "125":{
          "id":123,
@@ -2881,7 +3131,9 @@
             "ja":"リベリア",
             "it":"Liberia"
          },
-         "native":"Liberia"
+         "native":"Liberia",
+         "latitude":"6.50000000",
+         "longitude":"-9.50000000"
       },
       "126":{
          "id":124,
@@ -2904,7 +3156,9 @@
             "ja":"リビア",
             "it":"Libia"
          },
-         "native":"‏ليبيا"
+         "native":"‏ليبيا",
+         "latitude":"25.00000000",
+         "longitude":"17.00000000"
       },
       "127":{
          "id":125,
@@ -2927,7 +3181,9 @@
             "ja":"リヒテンシュタイン",
             "it":"Liechtenstein"
          },
-         "native":"Liechtenstein"
+         "native":"Liechtenstein",
+         "latitude":"47.26666666",
+         "longitude":"9.53333333"
       },
       "128":{
          "id":126,
@@ -2950,7 +3206,9 @@
             "ja":"リトアニア",
             "it":"Lituania"
          },
-         "native":"Lietuva"
+         "native":"Lietuva",
+         "latitude":"56.00000000",
+         "longitude":"24.00000000"
       },
       "129":{
          "id":127,
@@ -2973,7 +3231,9 @@
             "ja":"ルクセンブルク",
             "it":"Lussemburgo"
          },
-         "native":"Luxembourg"
+         "native":"Luxembourg",
+         "latitude":"49.75000000",
+         "longitude":"6.16666666"
       },
       "130":{
          "id":128,
@@ -2996,7 +3256,9 @@
             "ja":"マカオ",
             "it":"Macao"
          },
-         "native":"澳門"
+         "native":"澳門",
+         "latitude":"22.16666666",
+         "longitude":"113.55000000"
       },
       "131":{
          "id":129,
@@ -3019,7 +3281,9 @@
             "ja":"マケドニア旧ユーゴスラビア共和国",
             "it":"Macedonia"
          },
-         "native":"Северна Македонија"
+         "native":"Северна Македонија",
+         "latitude":"41.83333333",
+         "longitude":"22.00000000"
       },
       "132":{
          "id":130,
@@ -3042,7 +3306,9 @@
             "ja":"マダガスカル",
             "it":"Madagascar"
          },
-         "native":"Madagasikara"
+         "native":"Madagasikara",
+         "latitude":"-20.00000000",
+         "longitude":"47.00000000"
       },
       "133":{
          "id":131,
@@ -3065,7 +3331,9 @@
             "ja":"マラウイ",
             "it":"Malawi"
          },
-         "native":"Malawi"
+         "native":"Malawi",
+         "latitude":"-13.50000000",
+         "longitude":"34.00000000"
       },
       "134":{
          "id":132,
@@ -3088,7 +3356,9 @@
             "ja":"マレーシア",
             "it":"Malesia"
          },
-         "native":"Malaysia"
+         "native":"Malaysia",
+         "latitude":"2.50000000",
+         "longitude":"112.50000000"
       },
       "135":{
          "id":133,
@@ -3111,7 +3381,9 @@
             "ja":"モルディブ",
             "it":"Maldive"
          },
-         "native":"Maldives"
+         "native":"Maldives",
+         "latitude":"3.25000000",
+         "longitude":"73.00000000"
       },
       "136":{
          "id":134,
@@ -3134,7 +3406,9 @@
             "ja":"マリ",
             "it":"Mali"
          },
-         "native":"Mali"
+         "native":"Mali",
+         "latitude":"17.00000000",
+         "longitude":"-4.00000000"
       },
       "137":{
          "id":135,
@@ -3157,7 +3431,9 @@
             "ja":"マルタ",
             "it":"Malta"
          },
-         "native":"Malta"
+         "native":"Malta",
+         "latitude":"35.83333333",
+         "longitude":"14.58333333"
       },
       "138":{
          "id":136,
@@ -3180,7 +3456,9 @@
             "ja":"マン島",
             "it":"Isola di Man"
          },
-         "native":"Isle of Man"
+         "native":"Isle of Man",
+         "latitude":"54.25000000",
+         "longitude":"-4.50000000"
       },
       "139":{
          "id":137,
@@ -3203,7 +3481,9 @@
             "ja":"マーシャル諸島",
             "it":"Isole Marshall"
          },
-         "native":"M̧ajeļ"
+         "native":"M̧ajeļ",
+         "latitude":"9.00000000",
+         "longitude":"168.00000000"
       },
       "140":{
          "id":138,
@@ -3226,7 +3506,9 @@
             "ja":"マルティニーク",
             "it":"Martinica"
          },
-         "native":"Martinique"
+         "native":"Martinique",
+         "latitude":"14.66666700",
+         "longitude":"-61.00000000"
       },
       "141":{
          "id":139,
@@ -3249,7 +3531,9 @@
             "ja":"モーリタニア",
             "it":"Mauritania"
          },
-         "native":"موريتانيا"
+         "native":"موريتانيا",
+         "latitude":"20.00000000",
+         "longitude":"-12.00000000"
       },
       "142":{
          "id":140,
@@ -3272,7 +3556,9 @@
             "ja":"モーリシャス",
             "it":"Mauritius"
          },
-         "native":"Maurice"
+         "native":"Maurice",
+         "latitude":"-20.28333333",
+         "longitude":"57.55000000"
       },
       "143":{
          "id":141,
@@ -3295,7 +3581,9 @@
             "ja":"マヨット",
             "it":"Mayotte"
          },
-         "native":"Mayotte"
+         "native":"Mayotte",
+         "latitude":"-12.83333333",
+         "longitude":"45.16666666"
       },
       "144":{
          "id":142,
@@ -3318,7 +3606,9 @@
             "ja":"メキシコ",
             "it":"Messico"
          },
-         "native":"México"
+         "native":"México",
+         "latitude":"23.00000000",
+         "longitude":"-102.00000000"
       },
       "145":{
          "id":143,
@@ -3341,7 +3631,9 @@
             "ja":"ミクロネシア連邦",
             "it":"Micronesia"
          },
-         "native":"Micronesia"
+         "native":"Micronesia",
+         "latitude":"6.91666666",
+         "longitude":"158.25000000"
       },
       "146":{
          "id":144,
@@ -3364,7 +3656,9 @@
             "ja":"モルドバ共和国",
             "it":"Moldavia"
          },
-         "native":"Moldova"
+         "native":"Moldova",
+         "latitude":"47.00000000",
+         "longitude":"29.00000000"
       },
       "147":{
          "id":145,
@@ -3387,7 +3681,9 @@
             "ja":"モナコ",
             "it":"Principato di Monaco"
          },
-         "native":"Monaco"
+         "native":"Monaco",
+         "latitude":"43.73333333",
+         "longitude":"7.40000000"
       },
       "148":{
          "id":146,
@@ -3410,7 +3706,9 @@
             "ja":"モンゴル",
             "it":"Mongolia"
          },
-         "native":"Монгол улс"
+         "native":"Монгол улс",
+         "latitude":"46.00000000",
+         "longitude":"105.00000000"
       },
       "149":{
          "id":147,
@@ -3433,7 +3731,9 @@
             "ja":"モンテネグロ",
             "it":"Montenegro"
          },
-         "native":"Црна Гора"
+         "native":"Црна Гора",
+         "latitude":"42.50000000",
+         "longitude":"19.30000000"
       },
       "150":{
          "id":148,
@@ -3456,7 +3756,9 @@
             "ja":"モントセラト",
             "it":"Montserrat"
          },
-         "native":"Montserrat"
+         "native":"Montserrat",
+         "latitude":"16.75000000",
+         "longitude":"-62.20000000"
       },
       "151":{
          "id":149,
@@ -3479,7 +3781,9 @@
             "ja":"モロッコ",
             "it":"Marocco"
          },
-         "native":"المغرب"
+         "native":"المغرب",
+         "latitude":"32.00000000",
+         "longitude":"-5.00000000"
       },
       "152":{
          "id":150,
@@ -3502,7 +3806,9 @@
             "ja":"モザンビーク",
             "it":"Mozambico"
          },
-         "native":"Moçambique"
+         "native":"Moçambique",
+         "latitude":"-18.25000000",
+         "longitude":"35.00000000"
       },
       "153":{
          "id":151,
@@ -3525,7 +3831,9 @@
             "ja":"ミャンマー",
             "it":"Birmania"
          },
-         "native":"မြန်မာ"
+         "native":"မြန်မာ",
+         "latitude":"22.00000000",
+         "longitude":"98.00000000"
       },
       "154":{
          "id":152,
@@ -3548,7 +3856,9 @@
             "ja":"ナミビア",
             "it":"Namibia"
          },
-         "native":"Namibia"
+         "native":"Namibia",
+         "latitude":"-22.00000000",
+         "longitude":"17.00000000"
       },
       "155":{
          "id":153,
@@ -3571,7 +3881,9 @@
             "ja":"ナウル",
             "it":"Nauru"
          },
-         "native":"Nauru"
+         "native":"Nauru",
+         "latitude":"-0.53333333",
+         "longitude":"166.91666666"
       },
       "156":{
          "id":154,
@@ -3594,7 +3906,9 @@
             "ja":"ネパール",
             "it":"Nepal"
          },
-         "native":"नपल"
+         "native":"नपल",
+         "latitude":"28.00000000",
+         "longitude":"84.00000000"
       },
       "157":{
          "id":156,
@@ -3617,7 +3931,9 @@
             "ja":"オランダ",
             "it":"Paesi Bassi"
          },
-         "native":"Nederland"
+         "native":"Nederland",
+         "latitude":"52.50000000",
+         "longitude":"5.75000000"
       },
       "158":{
          "id":157,
@@ -3640,7 +3956,9 @@
             "ja":"ニューカレドニア",
             "it":"Nuova Caledonia"
          },
-         "native":"Nouvelle-Calédonie"
+         "native":"Nouvelle-Calédonie",
+         "latitude":"-21.50000000",
+         "longitude":"165.50000000"
       },
       "159":{
          "id":158,
@@ -3663,7 +3981,9 @@
             "ja":"ニュージーランド",
             "it":"Nuova Zelanda"
          },
-         "native":"New Zealand"
+         "native":"New Zealand",
+         "latitude":"-41.00000000",
+         "longitude":"174.00000000"
       },
       "160":{
          "id":159,
@@ -3686,7 +4006,9 @@
             "ja":"ニカラグア",
             "it":"Nicaragua"
          },
-         "native":"Nicaragua"
+         "native":"Nicaragua",
+         "latitude":"13.00000000",
+         "longitude":"-85.00000000"
       },
       "161":{
          "id":160,
@@ -3709,7 +4031,9 @@
             "ja":"ニジェール",
             "it":"Niger"
          },
-         "native":"Niger"
+         "native":"Niger",
+         "latitude":"16.00000000",
+         "longitude":"8.00000000"
       },
       "162":{
          "id":161,
@@ -3732,7 +4056,9 @@
             "ja":"ナイジェリア",
             "it":"Nigeria"
          },
-         "native":"Nigeria"
+         "native":"Nigeria",
+         "latitude":"10.00000000",
+         "longitude":"8.00000000"
       },
       "163":{
          "id":162,
@@ -3755,7 +4081,9 @@
             "ja":"ニウエ",
             "it":"Niue"
          },
-         "native":"Niuē"
+         "native":"Niuē",
+         "latitude":"-19.03333333",
+         "longitude":"-169.86666666"
       },
       "164":{
          "id":163,
@@ -3778,7 +4106,9 @@
             "ja":"ノーフォーク島",
             "it":"Isola Norfolk"
          },
-         "native":"Norfolk Island"
+         "native":"Norfolk Island",
+         "latitude":"-29.03333333",
+         "longitude":"167.95000000"
       },
       "165":{
          "id":164,
@@ -3801,7 +4131,9 @@
             "ja":"北マリアナ諸島",
             "it":"Isole Marianne Settentrionali"
          },
-         "native":"Northern Mariana Islands"
+         "native":"Northern Mariana Islands",
+         "latitude":"15.20000000",
+         "longitude":"145.75000000"
       },
       "166":{
          "id":165,
@@ -3824,7 +4156,9 @@
             "ja":"ノルウェー",
             "it":"Norvegia"
          },
-         "native":"Norge"
+         "native":"Norge",
+         "latitude":"62.00000000",
+         "longitude":"10.00000000"
       },
       "167":{
          "id":166,
@@ -3847,7 +4181,9 @@
             "ja":"オマーン",
             "it":"oman"
          },
-         "native":"عمان"
+         "native":"عمان",
+         "latitude":"21.00000000",
+         "longitude":"57.00000000"
       },
       "168":{
          "id":167,
@@ -3870,7 +4206,9 @@
             "ja":"パキスタン",
             "it":"Pakistan"
          },
-         "native":"Pakistan"
+         "native":"Pakistan",
+         "latitude":"30.00000000",
+         "longitude":"70.00000000"
       },
       "169":{
          "id":168,
@@ -3893,7 +4231,9 @@
             "ja":"パラオ",
             "it":"Palau"
          },
-         "native":"Palau"
+         "native":"Palau",
+         "latitude":"7.50000000",
+         "longitude":"134.50000000"
       },
       "170":{
          "id":169,
@@ -3916,7 +4256,9 @@
             "ja":"パレスチナ",
             "it":"Palestina"
          },
-         "native":"فلسطين"
+         "native":"فلسطين",
+         "latitude":"31.90000000",
+         "longitude":"35.20000000"
       },
       "171":{
          "id":170,
@@ -3939,7 +4281,9 @@
             "ja":"パナマ",
             "it":"Panama"
          },
-         "native":"Panamá"
+         "native":"Panamá",
+         "latitude":"9.00000000",
+         "longitude":"-80.00000000"
       },
       "172":{
          "id":171,
@@ -3962,7 +4306,9 @@
             "ja":"パプアニューギニア",
             "it":"Papua Nuova Guinea"
          },
-         "native":"Papua Niugini"
+         "native":"Papua Niugini",
+         "latitude":"-6.00000000",
+         "longitude":"147.00000000"
       },
       "173":{
          "id":172,
@@ -3985,7 +4331,9 @@
             "ja":"パラグアイ",
             "it":"Paraguay"
          },
-         "native":"Paraguay"
+         "native":"Paraguay",
+         "latitude":"-23.00000000",
+         "longitude":"-58.00000000"
       },
       "174":{
          "id":173,
@@ -4008,7 +4356,9 @@
             "ja":"ペルー",
             "it":"Perù"
          },
-         "native":"Perú"
+         "native":"Perú",
+         "latitude":"-10.00000000",
+         "longitude":"-76.00000000"
       },
       "175":{
          "id":174,
@@ -4031,7 +4381,9 @@
             "ja":"フィリピン",
             "it":"Filippine"
          },
-         "native":"Pilipinas"
+         "native":"Pilipinas",
+         "latitude":"13.00000000",
+         "longitude":"122.00000000"
       },
       "176":{
          "id":175,
@@ -4054,7 +4406,9 @@
             "ja":"ピトケアン",
             "it":"Isole Pitcairn"
          },
-         "native":"Pitcairn Islands"
+         "native":"Pitcairn Islands",
+         "latitude":"-25.06666666",
+         "longitude":"-130.10000000"
       },
       "177":{
          "id":176,
@@ -4077,7 +4431,9 @@
             "ja":"ポーランド",
             "it":"Polonia"
          },
-         "native":"Polska"
+         "native":"Polska",
+         "latitude":"52.00000000",
+         "longitude":"20.00000000"
       },
       "178":{
          "id":177,
@@ -4100,7 +4456,9 @@
             "ja":"ポルトガル",
             "it":"Portogallo"
          },
-         "native":"Portugal"
+         "native":"Portugal",
+         "latitude":"39.50000000",
+         "longitude":"-8.00000000"
       },
       "179":{
          "id":178,
@@ -4123,7 +4481,9 @@
             "ja":"プエルトリコ",
             "it":"Porto Rico"
          },
-         "native":"Puerto Rico"
+         "native":"Puerto Rico",
+         "latitude":"18.25000000",
+         "longitude":"-66.50000000"
       },
       "180":{
          "id":179,
@@ -4146,7 +4506,9 @@
             "ja":"カタール",
             "it":"Qatar"
          },
-         "native":"قطر"
+         "native":"قطر",
+         "latitude":"25.50000000",
+         "longitude":"51.25000000"
       },
       "181":{
          "id":180,
@@ -4169,7 +4531,9 @@
             "ja":"レユニオン",
             "it":"Riunione"
          },
-         "native":"La Réunion"
+         "native":"La Réunion",
+         "latitude":"-21.15000000",
+         "longitude":"55.50000000"
       },
       "182":{
          "id":181,
@@ -4192,7 +4556,9 @@
             "ja":"ルーマニア",
             "it":"Romania"
          },
-         "native":"România"
+         "native":"România",
+         "latitude":"46.00000000",
+         "longitude":"25.00000000"
       },
       "183":{
          "id":182,
@@ -4215,7 +4581,9 @@
             "ja":"ロシア連邦",
             "it":"Russia"
          },
-         "native":"Россия"
+         "native":"Россия",
+         "latitude":"60.00000000",
+         "longitude":"100.00000000"
       },
       "184":{
          "id":183,
@@ -4238,7 +4606,9 @@
             "ja":"ルワンダ",
             "it":"Ruanda"
          },
-         "native":"Rwanda"
+         "native":"Rwanda",
+         "latitude":"-2.00000000",
+         "longitude":"30.00000000"
       },
       "185":{
          "id":184,
@@ -4261,7 +4631,9 @@
             "ja":"セントヘレナ・アセンションおよびトリスタンダクーニャ",
             "it":"Sant'Elena"
          },
-         "native":"Saint Helena"
+         "native":"Saint Helena",
+         "latitude":"-15.95000000",
+         "longitude":"-5.70000000"
       },
       "186":{
          "id":185,
@@ -4284,7 +4656,9 @@
             "ja":"セントクリストファー・ネイビス",
             "it":"Saint Kitts e Nevis"
          },
-         "native":"Saint Kitts and Nevis"
+         "native":"Saint Kitts and Nevis",
+         "latitude":"17.33333333",
+         "longitude":"-62.75000000"
       },
       "187":{
          "id":186,
@@ -4307,7 +4681,9 @@
             "ja":"セントルシア",
             "it":"Santa Lucia"
          },
-         "native":"Saint Lucia"
+         "native":"Saint Lucia",
+         "latitude":"13.88333333",
+         "longitude":"-60.96666666"
       },
       "188":{
          "id":187,
@@ -4330,7 +4706,9 @@
             "ja":"サンピエール島・ミクロン島",
             "it":"Saint-Pierre e Miquelon"
          },
-         "native":"Saint-Pierre-et-Miquelon"
+         "native":"Saint-Pierre-et-Miquelon",
+         "latitude":"46.83333333",
+         "longitude":"-56.33333333"
       },
       "189":{
          "id":188,
@@ -4353,7 +4731,9 @@
             "ja":"セントビンセントおよびグレナディーン諸島",
             "it":"Saint Vincent e Grenadine"
          },
-         "native":"Saint Vincent and the Grenadines"
+         "native":"Saint Vincent and the Grenadines",
+         "latitude":"13.25000000",
+         "longitude":"-61.20000000"
       },
       "190":{
          "id":189,
@@ -4376,7 +4756,9 @@
             "ja":"サン・バルテルミー",
             "it":"Antille Francesi"
          },
-         "native":"Saint-Barthélemy"
+         "native":"Saint-Barthélemy",
+         "latitude":"18.50000000",
+         "longitude":"-63.41666666"
       },
       "191":{
          "id":190,
@@ -4399,7 +4781,9 @@
             "ja":"サン・マルタン（フランス領）",
             "it":"Saint Martin"
          },
-         "native":"Saint-Martin"
+         "native":"Saint-Martin",
+         "latitude":"18.08333333",
+         "longitude":"-63.95000000"
       },
       "192":{
          "id":191,
@@ -4422,7 +4806,9 @@
             "ja":"サモア",
             "it":"Samoa"
          },
-         "native":"Samoa"
+         "native":"Samoa",
+         "latitude":"-13.58333333",
+         "longitude":"-172.33333333"
       },
       "193":{
          "id":192,
@@ -4445,7 +4831,9 @@
             "ja":"サンマリノ",
             "it":"San Marino"
          },
-         "native":"San Marino"
+         "native":"San Marino",
+         "latitude":"43.76666666",
+         "longitude":"12.41666666"
       },
       "194":{
          "id":193,
@@ -4468,7 +4856,9 @@
             "ja":"サントメ・プリンシペ",
             "it":"São Tomé e Príncipe"
          },
-         "native":"São Tomé e Príncipe"
+         "native":"São Tomé e Príncipe",
+         "latitude":"1.00000000",
+         "longitude":"7.00000000"
       },
       "195":{
          "id":194,
@@ -4491,7 +4881,9 @@
             "ja":"サウジアラビア",
             "it":"Arabia Saudita"
          },
-         "native":"العربية السعودية"
+         "native":"العربية السعودية",
+         "latitude":"25.00000000",
+         "longitude":"45.00000000"
       },
       "196":{
          "id":195,
@@ -4514,7 +4906,9 @@
             "ja":"セネガル",
             "it":"Senegal"
          },
-         "native":"Sénégal"
+         "native":"Sénégal",
+         "latitude":"14.00000000",
+         "longitude":"-14.00000000"
       },
       "197":{
          "id":196,
@@ -4537,7 +4931,9 @@
             "ja":"セルビア",
             "it":"Serbia"
          },
-         "native":"Србија"
+         "native":"Србија",
+         "latitude":"44.00000000",
+         "longitude":"21.00000000"
       },
       "198":{
          "id":197,
@@ -4560,7 +4956,9 @@
             "ja":"セーシェル",
             "it":"Seychelles"
          },
-         "native":"Seychelles"
+         "native":"Seychelles",
+         "latitude":"-4.58333333",
+         "longitude":"55.66666666"
       },
       "199":{
          "id":198,
@@ -4583,7 +4981,9 @@
             "ja":"シエラレオネ",
             "it":"Sierra Leone"
          },
-         "native":"Sierra Leone"
+         "native":"Sierra Leone",
+         "latitude":"8.50000000",
+         "longitude":"-11.50000000"
       },
       "200":{
          "id":199,
@@ -4606,7 +5006,9 @@
             "ja":"シンガポール",
             "it":"Singapore"
          },
-         "native":"Singapore"
+         "native":"Singapore",
+         "latitude":"1.36666666",
+         "longitude":"103.80000000"
       },
       "201":{
          "id":250,
@@ -4626,7 +5028,9 @@
             "fr":"Saint Martin (partie néerlandaise)",
             "it":"Saint Martin (parte olandese)"
          },
-         "native":"Sint Maarten"
+         "native":"Sint Maarten",
+         "latitude":"18.03333300",
+         "longitude":"-63.05000000"
       },
       "202":{
          "id":200,
@@ -4649,7 +5053,9 @@
             "ja":"スロバキア",
             "it":"Slovacchia"
          },
-         "native":"Slovensko"
+         "native":"Slovensko",
+         "latitude":"48.66666666",
+         "longitude":"19.50000000"
       },
       "203":{
          "id":201,
@@ -4672,7 +5078,9 @@
             "ja":"スロベニア",
             "it":"Slovenia"
          },
-         "native":"Slovenija"
+         "native":"Slovenija",
+         "latitude":"46.11666666",
+         "longitude":"14.81666666"
       },
       "204":{
          "id":202,
@@ -4695,7 +5103,9 @@
             "ja":"ソロモン諸島",
             "it":"Isole Salomone"
          },
-         "native":"Solomon Islands"
+         "native":"Solomon Islands",
+         "latitude":"-8.00000000",
+         "longitude":"159.00000000"
       },
       "205":{
          "id":203,
@@ -4718,7 +5128,9 @@
             "ja":"ソマリア",
             "it":"Somalia"
          },
-         "native":"Soomaaliya"
+         "native":"Soomaaliya",
+         "latitude":"10.00000000",
+         "longitude":"49.00000000"
       },
       "206":{
          "id":204,
@@ -4741,7 +5153,9 @@
             "ja":"南アフリカ",
             "it":"Sud Africa"
          },
-         "native":"South Africa"
+         "native":"South Africa",
+         "latitude":"-29.00000000",
+         "longitude":"24.00000000"
       },
       "207":{
          "id":205,
@@ -4764,7 +5178,9 @@
             "ja":"サウスジョージア・サウスサンドウィッチ諸島",
             "it":"Georgia del Sud e Isole Sandwich Meridionali"
          },
-         "native":"South Georgia"
+         "native":"South Georgia",
+         "latitude":"-54.50000000",
+         "longitude":"-37.00000000"
       },
       "208":{
          "id":206,
@@ -4787,7 +5203,9 @@
             "ja":"南スーダン",
             "it":"Sudan del sud"
          },
-         "native":"South Sudan"
+         "native":"South Sudan",
+         "latitude":"7.00000000",
+         "longitude":"30.00000000"
       },
       "209":{
          "id":207,
@@ -4810,7 +5228,9 @@
             "ja":"スペイン",
             "it":"Spagna"
          },
-         "native":"España"
+         "native":"España",
+         "latitude":"40.00000000",
+         "longitude":"-4.00000000"
       },
       "210":{
          "id":208,
@@ -4833,7 +5253,9 @@
             "ja":"スリランカ",
             "it":"Sri Lanka"
          },
-         "native":"śrī laṃkāva"
+         "native":"śrī laṃkāva",
+         "latitude":"7.00000000",
+         "longitude":"81.00000000"
       },
       "211":{
          "id":209,
@@ -4856,7 +5278,9 @@
             "ja":"スーダン",
             "it":"Sudan"
          },
-         "native":"السودان"
+         "native":"السودان",
+         "latitude":"15.00000000",
+         "longitude":"30.00000000"
       },
       "212":{
          "id":210,
@@ -4879,7 +5303,9 @@
             "ja":"スリナム",
             "it":"Suriname"
          },
-         "native":"Suriname"
+         "native":"Suriname",
+         "latitude":"4.00000000",
+         "longitude":"-56.00000000"
       },
       "213":{
          "id":211,
@@ -4902,7 +5328,9 @@
             "ja":"スヴァールバル諸島およびヤンマイエン島",
             "it":"Svalbard e Jan Mayen"
          },
-         "native":"Svalbard og Jan Mayen"
+         "native":"Svalbard og Jan Mayen",
+         "latitude":"78.00000000",
+         "longitude":"20.00000000"
       },
       "214":{
          "id":212,
@@ -4925,7 +5353,9 @@
             "ja":"スワジランド",
             "it":"Swaziland"
          },
-         "native":"Swaziland"
+         "native":"Swaziland",
+         "latitude":"-26.50000000",
+         "longitude":"31.50000000"
       },
       "215":{
          "id":213,
@@ -4948,7 +5378,9 @@
             "ja":"スウェーデン",
             "it":"Svezia"
          },
-         "native":"Sverige"
+         "native":"Sverige",
+         "latitude":"62.00000000",
+         "longitude":"15.00000000"
       },
       "216":{
          "id":214,
@@ -4971,7 +5403,9 @@
             "ja":"スイス",
             "it":"Svizzera"
          },
-         "native":"Schweiz"
+         "native":"Schweiz",
+         "latitude":"47.00000000",
+         "longitude":"8.00000000"
       },
       "217":{
          "id":215,
@@ -4994,7 +5428,9 @@
             "ja":"シリア・アラブ共和国",
             "it":"Siria"
          },
-         "native":"سوريا"
+         "native":"سوريا",
+         "latitude":"35.00000000",
+         "longitude":"38.00000000"
       },
       "218":{
          "id":216,
@@ -5017,7 +5453,9 @@
             "ja":"台湾（中華民国）",
             "it":"Taiwan"
          },
-         "native":"臺灣"
+         "native":"臺灣",
+         "latitude":"23.50000000",
+         "longitude":"121.00000000"
       },
       "219":{
          "id":217,
@@ -5040,7 +5478,9 @@
             "ja":"タジキスタン",
             "it":"Tagikistan"
          },
-         "native":"Тоҷикистон"
+         "native":"Тоҷикистон",
+         "latitude":"39.00000000",
+         "longitude":"71.00000000"
       },
       "220":{
          "id":218,
@@ -5063,7 +5503,9 @@
             "ja":"タンザニア",
             "it":"Tanzania"
          },
-         "native":"Tanzania"
+         "native":"Tanzania",
+         "latitude":"-6.00000000",
+         "longitude":"35.00000000"
       },
       "221":{
          "id":219,
@@ -5086,7 +5528,9 @@
             "ja":"タイ",
             "it":"Tailandia"
          },
-         "native":"ประเทศไทย"
+         "native":"ประเทศไทย",
+         "latitude":"15.00000000",
+         "longitude":"100.00000000"
       },
       "222":{
          "id":220,
@@ -5109,7 +5553,9 @@
             "ja":"トーゴ",
             "it":"Togo"
          },
-         "native":"Togo"
+         "native":"Togo",
+         "latitude":"8.00000000",
+         "longitude":"1.16666666"
       },
       "223":{
          "id":221,
@@ -5132,7 +5578,9 @@
             "ja":"トケラウ",
             "it":"Isole Tokelau"
          },
-         "native":"Tokelau"
+         "native":"Tokelau",
+         "latitude":"-9.00000000",
+         "longitude":"-172.00000000"
       },
       "224":{
          "id":222,
@@ -5155,7 +5603,9 @@
             "ja":"トンガ",
             "it":"Tonga"
          },
-         "native":"Tonga"
+         "native":"Tonga",
+         "latitude":"-20.00000000",
+         "longitude":"-175.00000000"
       },
       "225":{
          "id":223,
@@ -5178,7 +5628,9 @@
             "ja":"トリニダード・トバゴ",
             "it":"Trinidad e Tobago"
          },
-         "native":"Trinidad and Tobago"
+         "native":"Trinidad and Tobago",
+         "latitude":"11.00000000",
+         "longitude":"-61.00000000"
       },
       "226":{
          "id":224,
@@ -5201,7 +5653,9 @@
             "ja":"チュニジア",
             "it":"Tunisia"
          },
-         "native":"تونس"
+         "native":"تونس",
+         "latitude":"34.00000000",
+         "longitude":"9.00000000"
       },
       "227":{
          "id":225,
@@ -5224,7 +5678,9 @@
             "ja":"トルコ",
             "it":"Turchia"
          },
-         "native":"Türkiye"
+         "native":"Türkiye",
+         "latitude":"39.00000000",
+         "longitude":"35.00000000"
       },
       "228":{
          "id":226,
@@ -5247,7 +5703,9 @@
             "ja":"トルクメニスタン",
             "it":"Turkmenistan"
          },
-         "native":"Türkmenistan"
+         "native":"Türkmenistan",
+         "latitude":"40.00000000",
+         "longitude":"60.00000000"
       },
       "229":{
          "id":227,
@@ -5270,7 +5728,9 @@
             "ja":"タークス・カイコス諸島",
             "it":"Isole Turks e Caicos"
          },
-         "native":"Turks and Caicos Islands"
+         "native":"Turks and Caicos Islands",
+         "latitude":"21.75000000",
+         "longitude":"-71.58333333"
       },
       "230":{
          "id":228,
@@ -5293,7 +5753,9 @@
             "ja":"ツバル",
             "it":"Tuvalu"
          },
-         "native":"Tuvalu"
+         "native":"Tuvalu",
+         "latitude":"-8.00000000",
+         "longitude":"178.00000000"
       },
       "231":{
          "id":229,
@@ -5316,7 +5778,9 @@
             "ja":"ウガンダ",
             "it":"Uganda"
          },
-         "native":"Uganda"
+         "native":"Uganda",
+         "latitude":"1.00000000",
+         "longitude":"32.00000000"
       },
       "232":{
          "id":230,
@@ -5339,7 +5803,9 @@
             "ja":"ウクライナ",
             "it":"Ucraina"
          },
-         "native":"Україна"
+         "native":"Україна",
+         "latitude":"49.00000000",
+         "longitude":"32.00000000"
       },
       "233":{
          "id":231,
@@ -5362,7 +5828,9 @@
             "ja":"アラブ首長国連邦",
             "it":"Emirati Arabi Uniti"
          },
-         "native":"دولة الإمارات العربية المتحدة"
+         "native":"دولة الإمارات العربية المتحدة",
+         "latitude":"24.00000000",
+         "longitude":"54.00000000"
       },
       "234":{
          "id":232,
@@ -5385,7 +5853,9 @@
             "ja":"イギリス",
             "it":"Regno Unito"
          },
-         "native":"United Kingdom"
+         "native":"United Kingdom",
+         "latitude":"54.00000000",
+         "longitude":"-2.00000000"
       },
       "235":{
          "id":233,
@@ -5408,7 +5878,9 @@
             "ja":"アメリカ合衆国",
             "it":"Stati Uniti D'America"
          },
-         "native":"United States"
+         "native":"United States",
+         "latitude":"38.00000000",
+         "longitude":"-97.00000000"
       },
       "236":{
          "id":234,
@@ -5431,7 +5903,9 @@
             "ja":"合衆国領有小離島",
             "it":"Isole minori esterne degli Stati Uniti d'America"
          },
-         "native":"United States Minor Outlying Islands"
+         "native":"United States Minor Outlying Islands",
+         "latitude":"0.00000000",
+         "longitude":"0.00000000"
       },
       "237":{
          "id":235,
@@ -5454,7 +5928,9 @@
             "ja":"ウルグアイ",
             "it":"Uruguay"
          },
-         "native":"Uruguay"
+         "native":"Uruguay",
+         "latitude":"-33.00000000",
+         "longitude":"-56.00000000"
       },
       "238":{
          "id":236,
@@ -5477,7 +5953,9 @@
             "ja":"ウズベキスタン",
             "it":"Uzbekistan"
          },
-         "native":"O‘zbekiston"
+         "native":"O‘zbekiston",
+         "latitude":"41.00000000",
+         "longitude":"64.00000000"
       },
       "239":{
          "id":237,
@@ -5500,7 +5978,9 @@
             "ja":"バヌアツ",
             "it":"Vanuatu"
          },
-         "native":"Vanuatu"
+         "native":"Vanuatu",
+         "latitude":"-16.00000000",
+         "longitude":"167.00000000"
       },
       "240":{
          "id":238,
@@ -5523,7 +6003,9 @@
             "ja":"聖座",
             "it":"Santa Sede"
          },
-         "native":"Vaticano"
+         "native":"Vaticano",
+         "latitude":"41.90000000",
+         "longitude":"12.45000000"
       },
       "241":{
          "id":239,
@@ -5546,7 +6028,9 @@
             "ja":"ベネズエラ・ボリバル共和国",
             "it":"Venezuela"
          },
-         "native":"Venezuela"
+         "native":"Venezuela",
+         "latitude":"8.00000000",
+         "longitude":"-66.00000000"
       },
       "242":{
          "id":240,
@@ -5569,7 +6053,9 @@
             "ja":"ベトナム",
             "it":"Vietnam"
          },
-         "native":"Việt Nam"
+         "native":"Việt Nam",
+         "latitude":"16.16666666",
+         "longitude":"107.83333333"
       },
       "243":{
          "id":241,
@@ -5592,7 +6078,9 @@
             "ja":"イギリス領ヴァージン諸島",
             "it":"Isole Vergini Britanniche"
          },
-         "native":"British Virgin Islands"
+         "native":"British Virgin Islands",
+         "latitude":"18.43138300",
+         "longitude":"-64.62305000"
       },
       "244":{
          "id":242,
@@ -5614,7 +6102,9 @@
             "ja":"アメリカ領ヴァージン諸島",
             "it":"Isole Vergini americane"
          },
-         "native":"United States Virgin Islands"
+         "native":"United States Virgin Islands",
+         "latitude":"18.34000000",
+         "longitude":"-64.93000000"
       },
       "245":{
          "id":243,
@@ -5637,7 +6127,9 @@
             "ja":"ウォリス・フツナ",
             "it":"Wallis e Futuna"
          },
-         "native":"Wallis et Futuna"
+         "native":"Wallis et Futuna",
+         "latitude":"-13.30000000",
+         "longitude":"-176.20000000"
       },
       "246":{
          "id":244,
@@ -5660,7 +6152,9 @@
             "ja":"西サハラ",
             "it":"Sahara Occidentale"
          },
-         "native":"الصحراء الغربية"
+         "native":"الصحراء الغربية",
+         "latitude":"24.50000000",
+         "longitude":"-13.00000000"
       },
       "247":{
          "id":245,
@@ -5683,7 +6177,9 @@
             "ja":"イエメン",
             "it":"Yemen"
          },
-         "native":"اليَمَن"
+         "native":"اليَمَن",
+         "latitude":"15.00000000",
+         "longitude":"48.00000000"
       },
       "248":{
          "id":246,
@@ -5706,7 +6202,9 @@
             "ja":"ザンビア",
             "it":"Zambia"
          },
-         "native":"Zambia"
+         "native":"Zambia",
+         "latitude":"-15.00000000",
+         "longitude":"30.00000000"
       },
       "249":{
          "id":247,
@@ -5729,7 +6227,9 @@
             "ja":"ジンバブエ",
             "it":"Zimbabwe"
          },
-         "native":"Zimbabwe"
+         "native":"Zimbabwe",
+         "latitude":"-20.00000000",
+         "longitude":"30.00000000"
       }
    }
   }
